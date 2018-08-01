@@ -1,0 +1,90 @@
+﻿Disease,Year,PathogenType,PathogenFamily,VectorType,Driver,Continent
+Alkhurma virus,1995,virus,Flaviviridae,tick,International travel & commerce,Africa
+Anaplasma phagocytophilum,1990,bacteria,Rickettsiaceae,tick,Land use changes,North America
+Babesia divergens,1957,protozoa,Babesidae,tick,Land use changes,Europe
+Babesia duncani,1991,protozoa,Babesidae,tick,Human susceptibility to infection,North America
+Babesia microti,1969,protozoa,Babesidae,tick,Land use changes,North America
+Babesia microti-like,1956,protozoa,Babesidae,tick,Human susceptibility to infection,Europe
+Banna virus,1985,virus,Reoviridae,mosquito,Medical industry changes,Asia
+Barmah forest,1985,virus,Togaviridae,mosquito,International travel & commerce,Australia
+Bartonella bacilliformis,1987,bacteria,Bartonellaceae,sand flea,War & famine,South America
+Bartonella bacilliformis chloramphenicol-res,1988,bacteria,Bartonellaceae,sand flea,Antimicrobial agent use,South America
+Bartonella elizabethae,1986,bacteria,Bartonellaceae,flea,Breakdown of public health measures,"Europe, North America"
+Bartonella washoensis,1995,bacteria,Bartonellaceae,flea,Climate & weather,North America
+Borrelia bissetii,1997,bacteria,Spirochaetaceae,tick,War & famine,North America
+Borrelia bugdorferi,1962,bacteria,Spirochaetaceae,tick,Land use changes,North America
+Borrelia hermsii,1969,bacteria,Spirochaetaceae,tick,Land use changes,North America
+Borrelia mayonii,2016,bacteria,Spirochaetaceae,tick,Unspecified,North America
+Borrelia miyamotoi,2011,bacteria,Spirochaetaceae,tick,Land use changes,"Europe, North America"
+Cache Valley virus (Bunyaviridae),1995,virus,Bunyaviridae,mosquito,Unspecified,"North America, South America"
+California encephalitis,1945,virus,Bunyaviridae,mosquito,Land use changes,North America
+Candidatus Neoehrlichia spp.,2007,bacteria,Anaplasmataceae,tick,Human susceptibility to infection,Europe
+Chikungunya,1952,virus,Togaviridae,mosquito,Human demographics & behavior,Africa
+Colorado tick fever virus,1944,virus,Reoviridae,tick,,North America
+Crimean-Congo Hemorrhagic Fever,1944,virus,Bunyaviridae,tick,War & famine,Europe
+Deer tick virus,2009,virus,Flaviviridae,tick,Land use changes,North America
+Dengue,1954,virus,Flaviviridae,mosquito,War & famine,Asia
+Ehrlichia canis,1986,bacteria,Rickettsiaceae,tick,Land use changes,North America
+Ehrlichia chaffeensis,1990,bacteria,Rickettsiaceae,tick,Land use changes,North America
+Ehrlichia equi,1990,bacteria,Rickettsiaceae,tick,Land use changes,North America
+Ehrlichia ewingii,1996,bacteria,Rickettsiaceae,tick,Human susceptibility to infection,North America
+Ehrlichia muris-like agent,2011,bacteria,Anaplasmataceae,tick,Human susceptibility to infection,North America
+European Tick Borne Encephalitis,1993,virus,Flaviviridae,tick,Land use changes,Europe
+Far Eastern Tick Borne Encephalitis,1993,virus,Flaviviridae,tick,Land use changes,Asia
+Francisella tularensis,1966,bacteria,Francisellaceae,tick,Agricultural industry changes,Europe
+Heartland virus,2013,virus,Bunyaviridae,tick,Land use changes,North America
+Jamestown Canyon virus,1960,virus,Bunyaviridae,mosquito,Land use changes,North America
+Japanese encephalitis virus,1989,virus,Flaviviridae,mosquito,Agricultural industry changes,Australia
+Kunjin virus,1974,virus,Flaviviridae,mosquito,Land use changes,Australia
+Kyasanur forest disease virus,1957,virus,Flaviviridae,tick,Land use changes,Asia
+LaCrosse virus,1960,virus,Bunyaviridae,mosquito,Land use changes,North America
+Leishmania donovani,1988,protozoa,Trypanosomatidae,sandfly,Human susceptibility to infection,Europe
+Leishmania infantum,1990,protozoa,Trypanosomatidae,sandfly,Land use changes,Europe
+Leishmania tropica,1990,protozoa,Trypanosomatidae,sandfly,War & famine,Africa
+O'nyong-nyong virus,1955,virus,Togaviridae,mosquito,Unspecified,Africa
+Ockelbo virus (subtype of Sindbis),1960,virus,Togaviridae,mosquito,International travel & commerce,Europe
+Orientia tsutsugamushi,1948,bacteria,Rickettsiaceae,mites,War & famine,Asia
+Oropouche virus,1955,virus,Bunyaviridae,mosquito,Land use changes,Africa
+Orungo virus,1976,virus,Reoviridae,mosquito,Unspecified,Africa
+Plasmodium falciparum chloroquine-res,1957,protozoa,Plasmodiidae,mosquito,Antimicrobial agent use,South America
+Plasmodium vivax,1964,protozoa,Plasmodiidae,mosquito,Breakdown of public health measures,Asia
+Plasmodium vivax chloroquine-res,1989,protozoa,Plasmodiidae,mosquito,War & famine,Australia
+Plasmodium vivax proguanil-res,1948,protozoa,Plasmodiidae,mosquito,Antimicrobial agent use,Asia
+Powassan virus (POWV),1958,virus,Flaviviridae,tick,Genetic characterization,"North America, Russia"
+Powasan virus lineage II (POWV II),2013,virus,Flaviviridae,tick,,Africa
+Rickettsia aeschlimannii (Spotted fever),2002,bacteria,Rickettsiaceae,tick,Agricultural industry changes,Africa
+Rickettsia africae,1992,bacteria,Rickettsiaceae,tick,International travel & commerce,North America
+Rickettsia akari,1946,bacteria,Rickettsiaceae,mites,Human demographics & behavior,Australia
+Rickettsia conorii subsp. conorii,1920,bacteria,Rickettsiaceae,tick,Climate and weather,Asia
+Rickettsia conorii subsp. indica,1950,bacteria,Rickettsiaceae,tick,Genetic characterization,"Europe, Asia"
+Rickettsia conorii subsp. israelensis,1940,bacteria,Rickettsiaceae,tick,Human susceptibility to infection,North America
+Rickettsia felis,1991,bacteria,Rickettsiaceae,flea,Unspecified,Asia
+Rickettsia heilongjiangensis (Far eastern spotted fever),1989,bacteria,Rickettsiaceae,tick,Genetic characterization,Europe
+Rickettsia massiliae,2006,bacteria,Rickettsiaceae,tick,Climate & weather,Europe
+Rickettsia monacensis,2005,bacteria,Rickettsiaceae,tick,Unspecified,Europe
+Rickettsia mongolotimonae,1996,bacteria,Rickettsiaceae,tick,International travel & commerce,North America
+Rickettsia montanensis,2012,bacteria,Rickettsiaceae,tick,Unspecified,"North America, South America"
+Rickettsia parkeri,2004,bacteria,Rickettsiaceae,tick,Genetic characterization,North America
+Rickettsia philipii (364D),2008,bacteria,Rickettsiaceae,tick,Human demographics & behavior,Africa
+Rickettsia typhi,1983,bacteria,Rickettsiaceae,flea,International travel & commerce,North America
+Rift Valley fever virus,1977,virus,Bunyaviridae,mosquito,Land use changes,Africa
+Ross river virus,1969,virus,Bunyaviridae,mosquito,International travel & commerce,Australia
+Sandfly fever Naples virus,1942,virus,Bunyaviridae,sandfly,War & famine,Asia
+Severe fever with thrombocytopenia syndrome (SFTS),2013,virus,Bunyaviridae,tick,Land use changes,Asia
+Sindbis virus,1952,virus,Togaviridae,mosquito,Climate & weather,Africa
+SLEV genotype IV,2015,virus,Flaviviridae,mosquito,Unspecified,South America
+"SLEV genotype V, VII",2007,virus,Flaviviridae,mosquito,Climate & weather,South America
+SLEV genotype VIII,2007,virus,Flaviviridae,mosquito,Climate & weather,South America
+Southern tick associated Rash Illness (STARI),1995,unknown,unknown,tick,Land use changes,North America
+St. Louis encephalitis virus (SLEV) genotypes I and II,1933,virus,Flaviviridae,mosquito,Climate & weather,North America
+Tahyna virus,1960,virus,Bunyaviridae,mosquito,Unspecified,Europe
+Trypanosoma cruzi,1968,protozoa,Trypanosomatidae,Triatomine bug,Land use changes,Africa
+Wesselsbron virus,1989,virus,Flaviviridae,mosquito,International travel & commerce,Africa
+West Nile Virus,1999,virus,Flaviviridae,mosquito,International travel & commerce,North America
+Wuchereria bancrofti,1965,helminths,Onchocercidae,mosquito,Land use changes,Africa
+Yellow fever virus,1940,virus,Flaviviridae,mosquito,Breakdown of public health measures,Africa
+Yersinia pestis,1970,bacteria,Enterobacteriaceae,flea,Land use changes,North America
+Yersinia pestis multiple drug-res,1995,bacteria,Enterobacteriaceae,flea,Antimicrobial agent use,Africa
+Zika virus,1971,virus,Flaviviridae,mosquito,Climate & weather,Asia
+Zika virus-Americas clade,2015,virus,Flaviviridae,mosquito,International travel & commerce,South America
+Zika virus-Asia clade,2007,virus,Flaviviridae,mosquito,International travel & commerce,Asia
